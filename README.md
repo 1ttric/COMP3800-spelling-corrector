@@ -2,7 +2,7 @@
 
 Corrects spelling errors!
 
-###Usage:
+### Usage:
   -dictfile string
         Path to the dictionary file to use (default "./dictionary.txt")
   -samplefile string
